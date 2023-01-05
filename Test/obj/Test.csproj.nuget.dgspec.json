@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\RyuJiHwan\\Testmain\\GitTest\\Test\\Test.csproj": {}
+    "C:\\RyuJiHwan\\Testmain\\Alpa\\Test\\Test.csproj": {}
   },
   "projects": {
-    "C:\\RyuJiHwan\\Testmain\\GitTest\\Test\\Test.csproj": {
+    "C:\\RyuJiHwan\\Testmain\\Alpa\\Test\\Test.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\RyuJiHwan\\Testmain\\GitTest\\Test\\Test.csproj",
+        "projectUniqueName": "C:\\RyuJiHwan\\Testmain\\Alpa\\Test\\Test.csproj",
         "projectName": "Test",
-        "projectPath": "C:\\RyuJiHwan\\Testmain\\GitTest\\Test\\Test.csproj",
+        "projectPath": "C:\\RyuJiHwan\\Testmain\\Alpa\\Test\\Test.csproj",
         "packagesPath": "C:\\Users\\KGA_06\\.nuget\\packages\\",
-        "outputPath": "C:\\RyuJiHwan\\Testmain\\GitTest\\Test\\obj\\",
+        "outputPath": "C:\\RyuJiHwan\\Testmain\\Alpa\\Test\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

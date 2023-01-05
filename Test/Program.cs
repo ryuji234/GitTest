@@ -1,5 +1,6 @@
 ﻿namespace Test
 {
+    // { 2023.01.5 Modified class Position /Alpa
     internal class Program
     {
         static void Main(string[] args)
@@ -7,7 +8,7 @@
             Ruler ruler = new Ruler(10);
             ruler.Run();
         }
-
+        // { 2023.01.5 Modified class Position /Alpa
         public class Ruler
         {
             private const float ONE_INCH = 2.54f;
